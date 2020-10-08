@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-public class MinActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
     CountDownTimer countDownTimer;
     MediaPlayer mPlayer;
     SeekBar timerController;
